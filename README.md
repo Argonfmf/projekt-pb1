@@ -1,2 +1,2 @@
-# projekt-pb1
+# projekt_PB
 Projekt iz Podatkovnih baz
